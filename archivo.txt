@@ -1,0 +1,21 @@
+Respaldo de proyectos
+
+Subir a Ambiente de GIT:
+
+Git init
+
+Aparecerá una U, que indica se hace seguimientogit
+
+FOrma de avisar de cambios
+
+git commit m "primer commit"
+
+git add . //Seguimiento y agregado //Agregar
+
+Retomar:
+
+Git init
+
+//Git Trabaja por ramas, rama principal renombrar de master a maingit
+
+Finalmente se agrrega el origen del repositorio.
