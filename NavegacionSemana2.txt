@@ -1,0 +1,13 @@
+Corresponde a etiqueta.
+
+NAV, URL. ENLACES.
+
+USO DE NAV, DESPUES DE SECTION,
+
+SECTION VA DENTRO DE MAIN O DESPUES DE HEADER. PERO SE USA NAV PARA NAVEGACIONES.
+
+IMAGEN DE LOGOTIPO
+
+
+DIV tiene mismo uso que section y article, sino que por CEO se emplea de mejor manera
+
