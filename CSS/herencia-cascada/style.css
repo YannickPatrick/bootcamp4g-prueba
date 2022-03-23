@@ -1,0 +1,57 @@
+/*body{
+    background-color: lightblue;
+    color:purple;
+}
+
+.container {
+    color: green;
+    font-size: 30px;
+}
+
+.titulo {
+    color: blue;
+    font-size: 50px;
+}
+
+.titulo {
+    color: yellow;
+}
+
+.titulo span{
+    color:green;
+    font-size: 20px;
+}
+*/
+/*Especificidad del selector universal*/
+
+
+*{
+color: blue;
+}
+h2 {
+color:red;
+}
+
+h3 {
+color: 
+}
+.titulo{
+
+}
+
+.container{
+    background-color: red;
+}
+
+#container{
+    background-color: blue;
+}
+
+/*
+C D U
+0   0   0       0
+0   0   1       1   Elemento
+0   1   0       10  Clase
+1   0   0       100 ID
+*/
+

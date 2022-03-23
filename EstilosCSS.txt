@@ -1,0 +1,84 @@
+CSS, ordena código de estilos.
+
+Embebido en html o en archivo externo css
+
+Cada etiqueta tiene una clase.
+
+. Define clase, 
+
+Clase Padre: Contenedor.
+
+Clase, etiquetas y clase
+
+Dentro de la clase párrafos, todos con etiqueta p.
+
+div>p
+
+Selectores Avanzados
+
+lenguaje css.com
+
+menor tamaño, una línea salem mejor
+
+DEV TOOLS de CHROME
+
+CSS trabaja en estilo de cascada.
+
+Se respeta el elemento más próximo
+
+Se respeta las propiedades de lo último declarado.
+
+Respeta de arriba hacia abajo
+
+
+
+SPAN por default acepta los estilos de ch3
+
+
+
+Especificidad del selector universal.
+
+La especificidad pesa más que la cascada.
+
+Elemento, especificidad es 1
+
+Clase especificad es 10
+
+
+
+Front end mentor
+
+FIGMA, UI, UX
+
+NOTIFY
+
+FRONTENDMENTO IO
+
+
+116000
+6.8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

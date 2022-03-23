@@ -1,0 +1,40 @@
+
+/*Comentario de código
+
+*/
+/*h1{
+    color:red;
+}*/
+
+ *{
+    color:blue;
+  }
+
+
+
+  /* Completar*/
+
+  .elemento_padre{
+      background-color: lightgreen;
+  }
+
+  div > p{
+      color:black;
+  }
+
+  .parrafos {
+      background-color: yellowgreen;
+  }
+
+  /*
+  .parrafos > p
+  {
+      color: black;
+  } */
+
+  .parrafos p+p {
+      color: black;
+  }
+
+/*Agrupación de Reglas*/
+.subtitulo { color:red; font-size: 30px;font-weight: 100;}

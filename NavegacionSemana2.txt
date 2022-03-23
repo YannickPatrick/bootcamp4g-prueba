@@ -11,3 +11,59 @@ IMAGEN DE LOGOTIPO
 
 DIV tiene mismo uso que section y article, sino que por CEO se emplea de mejor manera
 
+Bootstrap: Rapidez, se puede cambiar los estilos en sus carpetas. Tienen su propio curso o bootcamp. Manejo de estilos.
+
+
+Uso de formularios
+
+como en whatsapp, se envían y listo.
+
+INDEX.HTML
+
+
+
+Form, tiene atributos para recepción y envíos. 
+
+
+BACK END:
+ANTES: PHP
+
+JAVA SPRING
+NODE JS
+PYTHON
+
+JSON
+
+Arquitectura API
+
+Antes se usaba una carpeta. Backend  y Front END
+
+Patrones de desarrollo, multicapas.
+
+En este bootcamp, UTILIZAR este front end. Dominio en servidor. API REST.
+
+Proyectos Básicos.
+
+Proyectos, GITHUB PAGES. PARA FRON END
+
+HEROKU, SERVIDOR DE BACKEND
+
+SE COMUNICAN EN CONFIGURACION API REST.
+
+
+En formularios es buena práctica colocar el label.
+
+
+Input, de fecha, ya viene con placeholder establecido de fechas contruidas
+
+
+Developer.mozilla.org
+
+Application
+
+
+Extensión es Copyfish.
+
+OCR- 
+
+
